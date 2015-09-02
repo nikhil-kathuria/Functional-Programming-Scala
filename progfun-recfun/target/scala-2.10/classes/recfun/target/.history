@@ -1,0 +1,10 @@
+stylcheck
+styleCheck
+console
+styleCheck Main.scala
+console
+test
+import common._
+exit
+console
+exit
